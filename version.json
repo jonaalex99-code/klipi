@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.1/klipi-1.1.apk",
-  "notas": "Hasta 5 imagenes con visor, corazones y contador de copias."
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.2/klipi-1.2.apk",
+  "notas": "App mas simple: 3 secciones, perfil en la esquina, colecciones estilo carpeta, visor de imagenes que se arrastra y texto del prompt mas grande."
 }
