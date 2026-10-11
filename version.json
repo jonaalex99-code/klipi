@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.0/klipi-1.0.apk",
-  "notas": "Primera version de Klipi."
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.1/klipi-1.1.apk",
+  "notas": "Hasta 5 imagenes con visor, corazones y contador de copias."
 }
