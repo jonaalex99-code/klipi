@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.4/klipi-1.4.apk",
-  "notas": "Perfil tipo red social, colecciones con opciones (publica o privada), prompts guardados en cuadros, datos curiosos en Explorar y categorias mas simples."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.5/klipi-1.5.apk",
+  "notas": "Ahora puedes editar y eliminar tus prompts, comentarios y colecciones. Foto de perfil y foto de portada."
 }
