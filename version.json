@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.2/klipi-1.2.apk",
-  "notas": "App mas simple: 3 secciones, perfil en la esquina, colecciones estilo carpeta, visor de imagenes que se arrastra y texto del prompt mas grande."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.3/klipi-1.3.apk",
+  "notas": "Mas rapida. Ahora es tipo red social: me gusta, comentarios y compartir. Se ven todas las fotos en miniatura, zoom en las imagenes, etiquetas de tipo (texto, imagen, video, audio) y categorias organizadas."
 }
