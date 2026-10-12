@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.5/klipi-1.5.apk",
-  "notas": "Ahora puedes editar y eliminar tus prompts, comentarios y colecciones. Foto de perfil y foto de portada."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.6/klipi-1.6.apk",
+  "notas": "Ahora la app guarda todo en tu telefono: prompts, colecciones, comentarios, perfil, fotos y ajustes. No se pierde al cerrar ni al actualizar."
 }
