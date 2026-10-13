@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.7/klipi-1.7.apk",
-  "notas": "Al abrir una foto ya puedes pasar a la siguiente deslizando con el dedo. El zoom sigue igual: dos dedos o doble toque."
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.8/klipi-1.8.apk",
+  "notas": "Las fotos ya se ven completas, sin cortes ni franjas. Los cuadros quedan mas limpios: las opciones de cada prompt ahora estan al abrirlo."
 }
