@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.9/klipi-1.9.apk",
-  "notas": "Ahora Klipi pide crear cuenta o iniciar sesion. La app empieza en cero, sin ejemplos: lo que creaste se conserva en tu cuenta."
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.10/klipi-1.10.apk",
+  "notas": "El boton Continuar con Google ya esta conectado."
 }
