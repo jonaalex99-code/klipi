@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.6/klipi-1.6.apk",
-  "notas": "Ahora la app guarda todo en tu telefono: prompts, colecciones, comentarios, perfil, fotos y ajustes. No se pierde al cerrar ni al actualizar."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.7/klipi-1.7.apk",
+  "notas": "Al abrir una foto ya puedes pasar a la siguiente deslizando con el dedo. El zoom sigue igual: dos dedos o doble toque."
 }
