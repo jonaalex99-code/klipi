@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.8/klipi-1.8.apk",
-  "notas": "Las fotos ya se ven completas, sin cortes ni franjas. Los cuadros quedan mas limpios: las opciones de cada prompt ahora estan al abrirlo."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.9/klipi-1.9.apk",
+  "notas": "Ahora Klipi pide crear cuenta o iniciar sesion. La app empieza en cero, sin ejemplos: lo que creaste se conserva en tu cuenta."
 }
