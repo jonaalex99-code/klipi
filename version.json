@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.11/klipi-1.11.apk",
-  "notas": "Si Google no deja entrar, la app ahora muestra el motivo en pantalla."
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.12/klipi-1.12.apk",
+  "notas": "Cuentas reales: ahora ves los prompts de todos y lo tuyo queda guardado en tu cuenta. Entra con el mismo correo que usabas para subir tus prompts."
 }
