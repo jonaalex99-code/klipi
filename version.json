@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.12/klipi-1.12.apk",
-  "notas": "Cuentas reales: ahora ves los prompts de todos y lo tuyo queda guardado en tu cuenta. Entra con el mismo correo que usabas para subir tus prompts."
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.13/klipi-1.13.apk",
+  "notas": "Nuevo logo de Klipi. Continuar con Google ahora abre la pantalla completa de Google."
 }
