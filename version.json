@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.10/klipi-1.10.apk",
-  "notas": "El boton Continuar con Google ya esta conectado."
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apk": "https://github.com/jonaalex99-code/klipi/releases/download/v1.11/klipi-1.11.apk",
+  "notas": "Si Google no deja entrar, la app ahora muestra el motivo en pantalla."
 }
